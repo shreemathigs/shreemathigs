@@ -9,7 +9,7 @@
 
 ### 📌 About Me
 
-- 🎓 Pursuing **Master of Science in Computer Science from Bishop Heber College**
+- 👩‍🏫 Pursuing **Master of Science in Computer Science from Bishop Heber College**
 - 🎓 Graduated in **B.C.A from Bishop Heber College**
 - 📈 I love working on **Data Visualizations, Dashboards, and Analytical storytelling**
 - 👩‍💻 I’m actively building my portfolio and open to **Data Analyst Internships and Freelance opportunities**
@@ -19,7 +19,7 @@
 
 ### 💼 Technical Skills
 
-- **Languages**: Python (Pandas, NumPy, Matplotlib), SQL
+- **Languages**: Python (Pandas, NumPy, Matplotlib), MySQL
 - **Tools & Platforms**: Tableau, Google Sheets, Microsoft Excel, Google Colab, Jupyter Notebook, MySQL
 - **Other Skills**: Data Cleaning, Exploratory Data Analysis(EDA), Dashboard Creation, Problem Solving
 
@@ -40,8 +40,9 @@
 
 ### 📚 Certifications
 
-- 📊 Data Analyst – **Udemy**
 - 📈 Career Essentials in Data Analysis – **LinkedIn & Microsoft**
+- 📉 SQL and Relational Databases – **Cognitive Classes**
+- 📊 Data Analyst – **Udemy**
 - 🤖 Data Analysis with Python – **IBM**
 
 ---
