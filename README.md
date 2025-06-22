@@ -62,6 +62,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/shreemathigs)
 [![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail)](mailto:shreemathigs1414@gmail.com)
+[![Tableau](https://img.shields.io/badge/Tableau-blueviolet?style=for-the-badge&logo=tableau)](https://public.tableau.com/app/profile/shreemathigs)
 
 ---
 
