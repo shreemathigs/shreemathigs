@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi there, I'm Shreemathi G.S 👋</h1>
 <p align="center">
-🎓 Master of Science in Computer Science Student | 📊 Aspiring Data Analyst | 💻 Passionate about turning data into actionable insights
+🎓 Master of Science in Computer Science | Data Analyst | Tableau Dashboard Designer | Mentor | Edupreneur | SQL | Python Libraries | Freelancer
 </p>
 
 ---
